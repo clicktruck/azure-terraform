@@ -58,5 +58,5 @@ export ARM_TENANT_ID=xxx
 
 This action is workflow dispatched [with inputs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onworkflow_dispatchinputs).
 
-See [azure-bastion-dispatch.yml](https://github.com/clicktruck/azure-actions/.github/workflows/azure-bastion-dispatch.yml)
+See [azure-bastion-dispatch.yml](https://github.com/clicktruck/azure-actions/actions/workflows/azure-bastion-dispatch.yml)
 

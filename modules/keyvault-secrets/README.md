@@ -68,4 +68,4 @@ az keyvault secret show --vault-name <keyVaultName> --name <secretName> -o table
 
 This action is workflow dispatched [with inputs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onworkflow_dispatchinputs).
 
-See [azure-keyvault-secrets-dispatch.yml](https://github.com/clicktruck/azure-actions/.github/workflows/azure-keyvault-secrets-dispatch.yml)
+See [azure-keyvault-secrets-dispatch.yml](https://github.com/clicktruck/azure-actions/actions/workflows/azure-keyvault-secrets-dispatch.yml)

@@ -86,7 +86,7 @@ kubectl get po -A -o wide
 
 This action is workflow dispatched [with inputs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onworkflow_dispatchinputs).
 
-See [azure-k8s-cluster-dispatch.yml](https://github.com/clicktruck/azure-actions/.github/workflows/azure-k8s-cluster-dispatch.yml)
+See [azure-k8s-cluster-dispatch.yml](https://github.com/clicktruck/azure-actions/actions/workflows/azure-k8s-cluster-dispatch.yml)
 
 
 ## Troubleshooting

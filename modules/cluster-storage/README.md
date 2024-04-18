@@ -66,5 +66,5 @@ Use the name and location of the cluster you just created to update `kubeconfig`
 
 This action is only available as a callable workflow
 
-See [azure-k8s-cluster-storage.yml](https://github.com/clicktruck/azure-actions/.github/workflows/azure-k8s-cluster-storage.yml)
+See [azure-k8s-cluster-storage.yml](https://github.com/clicktruck/azure-actions/actions/workflows/azure-k8s-cluster-storage.yml)
 

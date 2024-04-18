@@ -52,7 +52,7 @@ export ARM_TENANT_ID=xxx
 
 This action is workflow dispatched [with inputs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onworkflow_dispatchinputs).
 
-See [azure-virtual-network-dispatch.yml](https://github.com/clicktruck/azure-actions/.github/workflows/azure-virtual-network-dispatch.yml)
+See [azure-virtual-network-dispatch.yml](https://github.com/clicktruck/azure-actions/actions/workflows/azure-virtual-network-dispatch.yml)
 
 
 ## Elsewhere

@@ -50,4 +50,4 @@ export ARM_TENANT_ID=xxx
 
 This action is workflow dispatched [with inputs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onworkflow_dispatchinputs).
 
-See [azure-child-dns-dispatch.yml](https://github.com/clicktruck/azure-actions/.github/workflows/azure-child-dns-dispatch.yml)
+See [azure-child-dns-dispatch.yml](https://github.com/clicktruck/azure-actions/actions/workflows/azure-child-dns-dispatch.yml)
