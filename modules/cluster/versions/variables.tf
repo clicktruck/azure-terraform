@@ -6,5 +6,5 @@ variable "resource_group_name" {
 variable "region" {
   type        = string
   description = "AKS region (e.g. `West Europe`) -> `az account list-locations --output table`"
-  default     = "westcentralus"
+  default     = "westus2"
 }

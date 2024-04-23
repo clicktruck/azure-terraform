@@ -1,7 +1,7 @@
 variable "region" {
   type        = string
   description = "The Azure Region where the Resource Group should exist.  For a list of regions execute [ az account list-locations -o table ]."
-  default     = "westcentralus"
+  default     = "westus2"
 }
 
 variable "resource_group_name" {

@@ -1,2 +1,2 @@
 resource_group_name = "test-resource-group"
-region = "westcentralus"
+region = "westus2"
