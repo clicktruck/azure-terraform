@@ -54,11 +54,11 @@ module "aks" {
     environment = var.environment
   }
 
-  disk_encryption_set_id              = azurerm_disk_encryption_set.des.id
-  enable_auto_scaling                 = true
-  enable_host_encryption              = false
-  local_account_disabled              = false
-  log_analytics_workspace_enabled     = true
+  disk_encryption_set_id          = azurerm_disk_encryption_set.des.id
+  enable_auto_scaling             = true
+  enable_host_encryption          = false
+  local_account_disabled          = false
+  log_analytics_workspace_enabled = true
   maintenance_window = {
     allowed = [
       {
