@@ -15,7 +15,8 @@ output "bastion_public_ip_address" {
 }
 
 output "to_ssh_to_bastion" {
-  value = join(" ", ["ssh -i", local_file.path_to_private_openssh_keyfile.filename, "ubuntu@${azurerm_linux_virtual_machine.bastion.public_ip_address}"])
+  sensitive = true
+  value     = join(" ", ["ssh -i", local_file.path_to_private_openssh_keyfile.filename, "ubuntu@${azurerm_linux_virtual_machine.bastion.public_ip_address}"])
 }
 
 output "bastion_id" {
